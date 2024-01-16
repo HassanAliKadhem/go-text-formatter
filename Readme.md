@@ -13,17 +13,17 @@ also it can do number operations
 
 
 example of capitalization (notice how the first letter of each word is now uppercase)
-![Alt text](<Screenshot 2024-01-16 at 3.28.46 PM.png>)
-![Alt text](<Screenshot 2024-01-16 at 3.28.50 PM.png>)
+![Alt text](Screenshot1.png)
+![Alt text](Screenshot2.png)
 
 example of lower case
-![Alt text](<Screenshot 2024-01-16 at 3.29.20 PM.png>)
-![Alt text](<Screenshot 2024-01-16 at 3.29.24 PM.png>)
+![Alt text](Screenshot3.png)
+![Alt text](Screenshot4.png)
 
 example of an or a confusion fix
-![Alt text](<Screenshot 2024-01-16 at 3.29.52 PM.png>)
-![Alt text](<Screenshot 2024-01-16 at 3.29.55 PM.png>)
+![Alt text](Screenshot5.png)
+![Alt text](Screenshot6.png)
 
 example of numbering system converter
-![Alt text](<Screenshot 2024-01-16 at 3.30.20 PM.png>)
-![Alt text](<Screenshot 2024-01-16 at 3.30.22 PM.png>)
+![Alt text](Screenshot7.png)
+![Alt text](Screenshot8.png)
